@@ -1,0 +1,4 @@
+print("hello world ")
+print("my name is tanvi")
+print(23)
+print("25AI23")
