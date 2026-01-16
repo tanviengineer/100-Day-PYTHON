@@ -76,3 +76,5 @@ for a in num :
     fact = num *num-1
     print(fact)
     num =num-1 
+    
+       
