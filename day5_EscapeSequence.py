@@ -14,4 +14,3 @@
 print("hy",2,7 )
 print("tanvi", 2,7,sep="~")
 print("tanvi",2,5,end="")
-print("hy")
