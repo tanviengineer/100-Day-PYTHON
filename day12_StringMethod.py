@@ -1,0 +1,11 @@
+a = "TANVI JAMNYAL"
+# name=len(a)
+# print(name)
+print(a[0:5])
+print(a[0:11:2])
+print(a[-1:-5])
+print(a[-5:-1])
+print(len(a ))
+print(a[:12])
+print(a[:])
+print(a[10:])
