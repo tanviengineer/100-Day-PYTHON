@@ -30,19 +30,19 @@ print("5 : Modulus")
 while True:
     option =str(input("Choose an option :"))
 
-# for i  in option:
+    for i  in option:
 
-    if option =="1":
+     if option =="1":
         print(num1 +num2)
-    elif option =="2":
+     elif option =="2":
         print(num1-num2)
-    elif option =="3":
+     elif option =="3":
         print(num1*num2)
-    elif option == "4":
+     elif option == "4":
         print(num1/num2)
-    elif option=="5":
+     elif option=="5":
         print(num1%num2)
-    else:
+     else:
         print("Invalid choice")
     for ii in option :
         option =str(input("Choose an option :"))
