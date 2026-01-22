@@ -9,8 +9,6 @@ else :
 #  if elif else statement
 a = int(input("enter a  value : "))
 
-
-
 # nested if else statement
 a= "\nchecking you are eligible or not for voting \n "
 print(a)
@@ -47,37 +45,3 @@ elif date <=31 and date%7 ==6:
     print("Today is FRIDAY")
 else :
     print("Given date is invalid ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                                     
