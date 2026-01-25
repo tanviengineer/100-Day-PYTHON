@@ -6,9 +6,10 @@ print(type(list1))
 L1 = [ 1,2,3,4,5,"tanvi","naval"]
 print(L1)
 print(type(L1))
-L1.append("Joy")
+L1.append("tanu")
 print("Add item in list    : ",L1)
-L1.remove("Joy")
+
+L1.remove("tanu")
 print("Remove Item in List : ",L1)
 
 T1 = (1,2,3,4,5,6,"Hello", "World")
@@ -21,3 +22,5 @@ print(type(d1))
 print(d1["Name"])
 d1["Course"] = "Artificial Intelligence"
 print(d1)
+
+#  LIST :   
